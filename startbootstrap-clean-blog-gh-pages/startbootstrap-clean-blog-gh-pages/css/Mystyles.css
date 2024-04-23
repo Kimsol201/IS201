@@ -1,0 +1,61 @@
+
+
+
+.scratchpage {background-color: #d6EBF2;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:  25px;
+    border: 3px solid black;
+    margin: 5px;
+    padding-left: 80px;
+    padding-right: 80px}
+   
+    .common{
+        text-align: center;
+    }
+    
+    h1 {
+        font-family: 'Great Vibes', cursive;
+        font-size: 80px;
+        text-align:center;
+        
+    }
+
+    .scratchcolor{ color: #37419A;}
+    
+    h2 {
+        
+        font-family: 'Great Vibes', cursive;
+        font-size: 50px;
+        padding-left: 50px;
+        padding-top: 10px;
+        
+    }
+    
+    .column1 {
+        float: left;
+        width: 50%;
+        padding: 15px;
+    }
+    
+    .scratchnav {border-style: dashed;}
+
+    nav{
+        background-color: #fff2ee;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        overflow: hidden;
+    }
+    
+    nav a{
+        float: left;
+        padding: 20px 12px;
+        text-decoration: none;
+        color: #333;
+        font-size: 16px;
+        font-weight: bold;
+       
+    }
+
+   .bg {
+    font-size:xx-large;
+   }
