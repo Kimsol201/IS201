@@ -38,13 +38,13 @@
         padding: 15px;
     }
     
-    .scratchnav {border-style: dashed;}
-
-    nav{
+    .scratchnav {border-style: dashed;
         background-color: #fff2ee;
         font-family: Georgia, 'Times New Roman', Times, serif;
         overflow: hidden;
     }
+
+    
     
     nav a{
         float: left;
